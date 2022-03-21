@@ -1,0 +1,3 @@
+curl -H "X-Requested-With: XMLHttpRequest" https://tlh.ramenlife.co/api/startups\?deleted\=false\&active\=true\&visible\=true\&links.organisation_id\=%2258%22\&%24sort\=%5B%22-points%22%2C%22-createdDate%22%5D\&%24organisation_id\=%2258%22 > startups.json
+
+curl -H "X-Requested-With: XMLHttpRequest" https://tlh.ramenlife.co/api/support_services\?deleted\=false\&%24organisation_id\=%2258%22 > companies.json

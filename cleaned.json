@@ -1,0 +1,518 @@
+[
+  {
+    "name": "Bloom Intelligence",
+    "type": "company",
+    "tracks": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "Panhandle Educational Consulting Services, LLC",
+    "type": "company",
+    "tracks": [
+      "Technology",
+      "Services",
+      "Education",
+      "Consulting"
+    ]
+  },
+  {
+    "name": "Future Pathways",
+    "type": "serviceProvider",
+    "tracks": [
+      "Services"
+    ]
+  },
+  {
+    "name": "Florida State University Career Center",
+    "type": "serviceProvider",
+    "tracks": [
+      "Education",
+      "Services"
+    ]
+  },
+  {
+    "name": "FINACIOUS",
+    "type": "company",
+    "tracks": [
+      "Consulting",
+      "Services"
+    ]
+  },
+  {
+    "name": "Fiore Communications",
+    "type": "company",
+    "tracks": [
+      "Marketing",
+      "Writing & Blogging",
+      "Products",
+      "Services"
+    ]
+  },
+  {
+    "name": "Diverse Computing, Inc.",
+    "type": "company",
+    "tracks": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "Knowli, Corp | Knowli Data Science | Knowli Consulting, LLC",
+    "type": "company",
+    "tracks": [
+      "Technology",
+      "Services",
+      "Consulting"
+    ]
+  },
+  {
+    "name": "Mass Address, Inc",
+    "type": "company",
+    "tracks": [
+      "Technology",
+      "Utilities"
+    ]
+  },
+  {
+    "name": "Florida State University College of Communication & Information",
+    "type": "serviceProvider",
+    "tracks": [
+      "Education",
+      "Services"
+    ]
+  },
+  {
+    "name": "Pinnacle Performance Consulting",
+    "type": "company",
+    "tracks": [
+      "Consulting"
+    ]
+  },
+  {
+    "name": "IntegriSource, Inc.",
+    "type": "company",
+    "tracks": [
+      "Technology",
+      "Manufacturing",
+      "Accounting"
+    ]
+  },
+  {
+    "name": "VR Systems, Inc.",
+    "type": "company",
+    "tracks": [
+      "Technology",
+      "Products",
+      "Services"
+    ]
+  },
+  {
+    "name": "TEKsystems",
+    "type": "serviceProvider",
+    "tracks": [
+      "Services"
+    ]
+  },
+  {
+    "name": "JustFOIA",
+    "type": "company",
+    "tracks": [
+      "Technology",
+      "Public Administration",
+      "Robotics & Automation",
+      "Services",
+      "Products"
+    ]
+  },
+  {
+    "name": "MCCi",
+    "type": "company",
+    "tracks": [
+      "Technology",
+      "Consulting"
+    ]
+  },
+  {
+    "name": "Target Print & Mail",
+    "type": "serviceProvider",
+    "tracks": [
+      "Services"
+    ]
+  },
+  {
+    "name": "The Workman",
+    "type": "company",
+    "tracks": [
+      "Marketing",
+      "Media & Broadcasting",
+      "Services"
+    ]
+  },
+  {
+    "name": "Kikoda | Cutting Edge Software ",
+    "type": "company",
+    "tracks": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "George J. Little, Attorney and Consultant",
+    "type": "company",
+    "tracks": [
+      "Services",
+      "Consulting"
+    ]
+  },
+  {
+    "name": "Slash Pine Tech",
+    "type": "company",
+    "tracks": [
+      "Consulting",
+      "Technology",
+      "Services"
+    ]
+  },
+  {
+    "name": "223 Agency",
+    "type": "company",
+    "tracks": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "name": "Event Owl",
+    "type": "company",
+    "tracks": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "name": "i2x Solutions",
+    "type": "company",
+    "tracks": [
+      "Technology",
+      "Services",
+      "Products"
+    ]
+  },
+  {
+    "name": "Synapse ",
+    "type": "serviceProvider",
+    "tracks": [
+      "Services"
+    ]
+  },
+  {
+    "name": "Florida A&M University",
+    "type": "serviceProvider",
+    "tracks": [
+      "Education",
+      "Services"
+    ]
+  },
+  {
+    "name": "Choose Tallahassee",
+    "type": "serviceProvider",
+    "tracks": [
+      "Services"
+    ]
+  },
+  {
+    "name": "FSU College of Communication & Information",
+    "type": "serviceProvider",
+    "tracks": [
+      "Education",
+      "Services"
+    ]
+  },
+  {
+    "name": "Tallahassee Community College (TCC)",
+    "type": "serviceProvider",
+    "tracks": [
+      "Education",
+      "Services"
+    ]
+  },
+  {
+    "name": "Florida Technology Council (FTC)",
+    "type": "serviceProvider",
+    "tracks": [
+      "Technology",
+      "Services"
+    ]
+  },
+  {
+    "name": "TalTech Alliance",
+    "type": "serviceProvider",
+    "tracks": [
+      "Technology",
+      "Services"
+    ]
+  },
+  {
+    "name": "Leon County Schools",
+    "type": "serviceProvider",
+    "tracks": [
+      "Education",
+      "Services"
+    ]
+  },
+  {
+    "name": "Office of Economic Vitality (OEV)",
+    "type": "serviceProvider",
+    "tracks": [
+      "Services"
+    ]
+  },
+  {
+    "name": "Domi Station",
+    "type": "serviceProvider",
+    "tracks": [
+      "Services"
+    ]
+  },
+  {
+    "name": "Grape Works Dev",
+    "type": "company",
+    "tracks": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "Greater Tallahassee Chamber of Commerce",
+    "type": "serviceProvider",
+    "tracks": [
+      "Services",
+      "Technology",
+      "Not-for-Profit"
+    ]
+  },
+  {
+    "name": "Ruvos",
+    "type": "company",
+    "tracks": [
+      "Technology",
+      "Services"
+    ]
+  },
+  {
+    "name": "Mass Address",
+    "type": "startup",
+    "tracks": [
+      "Utilities",
+      "Technology",
+      "Services"
+    ]
+  },
+  {
+    "name": "Startup.win",
+    "type": "startup",
+    "tracks": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "Moves World",
+    "type": "startup",
+    "tracks": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "Vequency",
+    "type": "startup",
+    "tracks": [
+      "Design",
+      "Technology"
+    ]
+  },
+  {
+    "name": "Grape Works Dev",
+    "type": "startup",
+    "tracks": [
+      "Technology",
+      "Services"
+    ]
+  },
+  {
+    "name": "The Current Agency",
+    "type": "startup",
+    "tracks": [
+      "Marketing",
+      "Communications",
+      "Services"
+    ]
+  },
+  {
+    "name": "Made Equal Clothing Co.",
+    "type": "startup",
+    "tracks": [
+      "Marketing",
+      "Apparel & Accessories",
+      "Design",
+      "Technology",
+      "Products"
+    ]
+  },
+  {
+    "name": "Synapse",
+    "type": "startup",
+    "tracks": [
+      "Marketing",
+      "Technology",
+      "Not-for-Profit",
+      "Services"
+    ]
+  },
+  {
+    "name": "The Health Network",
+    "type": "startup",
+    "tracks": [
+      "Marketing",
+      "Media & Broadcasting",
+      "Technology",
+      "Services"
+    ]
+  },
+  {
+    "name": "FoodiesTakeout.com",
+    "type": "startup",
+    "tracks": [
+      "Food & Beverage",
+      "Technology"
+    ]
+  },
+  {
+    "name": "Launch Tally",
+    "type": "startup",
+    "tracks": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "Epic Bikes",
+    "type": "startup",
+    "tracks": [
+      "Retail",
+      "Technology",
+      "Products",
+      "Services"
+    ]
+  },
+  {
+    "name": "Cloud Navigator",
+    "type": "startup",
+    "tracks": [
+      "Technology",
+      "Products",
+      "Services"
+    ]
+  },
+  {
+    "name": "CodeSlam",
+    "type": "startup",
+    "tracks": [
+      "Education",
+      "Technology",
+      "Art"
+    ]
+  },
+  {
+    "name": "Logoi Learning Systems",
+    "type": "startup",
+    "tracks": [
+      "Education",
+      "Technology"
+    ]
+  },
+  {
+    "name": "Bloom Intelligence",
+    "type": "startup",
+    "tracks": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "Innovation by Design LLC",
+    "type": "startup",
+    "tracks": [
+      "Consulting",
+      "Services"
+    ]
+  },
+  {
+    "name": "Young Engineers Tallahassee",
+    "type": "startup",
+    "tracks": [
+      "Technology",
+      "Products",
+      "Services"
+    ]
+  },
+  {
+    "name": "Smart Florida",
+    "type": "startup",
+    "tracks": [
+      "Education"
+    ]
+  },
+  {
+    "name": "Kicks Collective",
+    "type": "startup",
+    "tracks": [
+      "Apparel & Accessories",
+      "Art",
+      "Not-for-Profit",
+      "Products",
+      "Services"
+    ]
+  },
+  {
+    "name": "Pinnacle Performance Consulting",
+    "type": "startup",
+    "tracks": [
+      "Consulting",
+      "Design",
+      "Employment & Human Resources",
+      "Services"
+    ]
+  },
+  {
+    "name": "Playground.ceo",
+    "type": "startup",
+    "tracks": [
+      "Education"
+    ]
+  },
+  {
+    "name": "The Workforce Alliance Inc",
+    "type": "startup",
+    "tracks": [
+      "Not-for-Profit"
+    ]
+  },
+  {
+    "name": "Law_Net",
+    "type": "startup",
+    "tracks": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "VeryVIP ",
+    "type": "startup",
+    "tracks": [
+      "Services",
+      "Technology"
+    ]
+  },
+  {
+    "name": "Panhandle Online, Inc.",
+    "type": "startup",
+    "tracks": [
+      "Services"
+    ]
+  }
+]

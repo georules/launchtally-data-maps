@@ -1,0 +1,16 @@
+{
+    "title": "LaunchTally",
+    "slug": "xt6kv7ph",
+    "user": false,
+    "token": "evpiek8otsu",
+    "legend": 1,
+    "labels": 1,
+    "stations": [{
+        "label": "a",
+        "lines": ["y"]
+    }, {
+        "label": "b",
+        "lines": ["x"]
+    }],
+    "lines": ["x", "y"]
+}

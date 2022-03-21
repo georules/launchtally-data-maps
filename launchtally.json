@@ -1,0 +1,458 @@
+{
+  "title": "Launch Tally",
+  "stations": [
+    {
+      "label": "Epic Bikes",
+      "lines": [
+        "Retail",
+        "Technology",
+        "Products",
+        "Services"
+      ]
+    },
+    {
+      "label": "223 Agency",
+      "lines": [
+        "Marketing",
+        "Technology"
+      ]
+    },
+    {
+      "label": "Mass Address, Inc",
+      "lines": [
+        "Technology",
+        "Utilities"
+      ]
+    },
+    {
+      "label": "The Workman",
+      "lines": [
+        "Marketing",
+        "Media & Broadcasting",
+        "Services"
+      ]
+    },
+    {
+      "label": "VR Systems, Inc.",
+      "lines": [
+        "Technology",
+        "Products",
+        "Services"
+      ]
+    },
+    {
+      "label": "TEKsystems",
+      "lines": [
+        "Services"
+      ]
+    },
+    {
+      "label": "VeryVIP ",
+      "lines": [
+        "Services",
+        "Technology"
+      ]
+    },
+    {
+      "label": "Grape Works Dev",
+      "lines": [
+        "Technology"
+      ]
+    },
+    {
+      "label": "Launch Tally",
+      "lines": [
+        "Technology"
+      ]
+    },
+    {
+      "label": "Kikoda | Cutting Edge Software ",
+      "lines": [
+        "Technology"
+      ]
+    },
+    {
+      "label": "Diverse Computing, Inc.",
+      "lines": [
+        "Technology"
+      ]
+    },
+    {
+      "label": "Panhandle Online, Inc.",
+      "lines": [
+        "Services"
+      ]
+    },
+    {
+      "label": "Panhandle Educational Consulting Services, LLC",
+      "lines": [
+        "Technology",
+        "Services",
+        "Education",
+        "Consulting"
+      ]
+    },
+    {
+      "label": "George J. Little, Attorney and Consultant",
+      "lines": [
+        "Services",
+        "Consulting"
+      ]
+    },
+    {
+      "label": "The Current Agency",
+      "lines": [
+        "Marketing",
+        "Communications",
+        "Services"
+      ]
+    },
+    {
+      "label": "Pinnacle Performance Consulting",
+      "lines": [
+        "Consulting"
+      ]
+    },
+    {
+      "label": "TalTech Alliance",
+      "lines": [
+        "Technology",
+        "Services"
+      ]
+    },
+    {
+      "label": "Moves World",
+      "lines": [
+        "Technology"
+      ]
+    },
+    {
+      "label": "IntegriSource, Inc.",
+      "lines": [
+        "Technology",
+        "Manufacturing",
+        "Accounting"
+      ]
+    },
+    {
+      "label": "Slash Pine Tech",
+      "lines": [
+        "Consulting",
+        "Technology",
+        "Services"
+      ]
+    },
+    {
+      "label": "Playground.ceo",
+      "lines": [
+        "Education"
+      ]
+    },
+    {
+      "label": "Logoi Learning Systems",
+      "lines": [
+        "Education",
+        "Technology"
+      ]
+    },
+    {
+      "label": "Mass Address",
+      "lines": [
+        "Utilities",
+        "Technology",
+        "Services"
+      ]
+    },
+    {
+      "label": "FoodiesTakeout.com",
+      "lines": [
+        "Food & Beverage",
+        "Technology"
+      ]
+    },
+    {
+      "label": "Tallahassee Community College (TCC)",
+      "lines": [
+        "Education",
+        "Services"
+      ]
+    },
+    {
+      "label": "Greater Tallahassee Chamber of Commerce",
+      "lines": [
+        "Services",
+        "Technology",
+        "Not-for-Profit"
+      ]
+    },
+    {
+      "label": "Grape Works Dev",
+      "lines": [
+        "Technology",
+        "Services"
+      ]
+    },
+    {
+      "label": "Vequency",
+      "lines": [
+        "Design",
+        "Technology"
+      ]
+    },
+    {
+      "label": "Leon County Schools",
+      "lines": [
+        "Education",
+        "Services"
+      ]
+    },
+    {
+      "label": "Synapse ",
+      "lines": [
+        "Services"
+      ]
+    },
+    {
+      "label": "Synapse",
+      "lines": [
+        "Marketing",
+        "Technology",
+        "Not-for-Profit",
+        "Services"
+      ]
+    },
+    {
+      "label": "Ruvos",
+      "lines": [
+        "Technology",
+        "Services"
+      ]
+    },
+    {
+      "label": "MCCi",
+      "lines": [
+        "Technology",
+        "Consulting"
+      ]
+    },
+    {
+      "label": "Young Engineers Tallahassee",
+      "lines": [
+        "Technology",
+        "Products",
+        "Services"
+      ]
+    },
+    {
+      "label": "FSU College of Communication & Information",
+      "lines": [
+        "Education",
+        "Services"
+      ]
+    },
+    {
+      "label": "Florida Technology Council (FTC)",
+      "lines": [
+        "Technology",
+        "Services"
+      ]
+    },
+    {
+      "label": "Florida A&M University",
+      "lines": [
+        "Education",
+        "Services"
+      ]
+    },
+    {
+      "label": "The Health Network",
+      "lines": [
+        "Marketing",
+        "Media & Broadcasting",
+        "Technology",
+        "Services"
+      ]
+    },
+    {
+      "label": "Law_Net",
+      "lines": [
+        "Technology"
+      ]
+    },
+    {
+      "label": "Cloud Navigator",
+      "lines": [
+        "Technology",
+        "Products",
+        "Services"
+      ]
+    },
+    {
+      "label": "Bloom Intelligence",
+      "lines": [
+        "Technology"
+      ]
+    },
+    {
+      "label": "Innovation by Design LLC",
+      "lines": [
+        "Consulting",
+        "Services"
+      ]
+    },
+    {
+      "label": "FINACIOUS",
+      "lines": [
+        "Consulting",
+        "Services"
+      ]
+    },
+    {
+      "label": "Florida State University Career Center",
+      "lines": [
+        "Education",
+        "Services"
+      ]
+    },
+    {
+      "label": "The Workforce Alliance Inc",
+      "lines": [
+        "Not-for-Profit"
+      ]
+    },
+    {
+      "label": "Made Equal Clothing Co.",
+      "lines": [
+        "Marketing",
+        "Apparel & Accessories",
+        "Design",
+        "Technology",
+        "Products"
+      ]
+    },
+    {
+      "label": "Office of Economic Vitality (OEV)",
+      "lines": [
+        "Services"
+      ]
+    },
+    {
+      "label": "Future Pathways",
+      "lines": [
+        "Services"
+      ]
+    },
+    {
+      "label": "Target Print & Mail",
+      "lines": [
+        "Services"
+      ]
+    },
+    {
+      "label": "Florida State University College of Communication & Information",
+      "lines": [
+        "Education",
+        "Services"
+      ]
+    },
+    {
+      "label": "Fiore Communications",
+      "lines": [
+        "Marketing",
+        "Writing & Blogging",
+        "Products",
+        "Services"
+      ]
+    },
+    {
+      "label": "Bloom Intelligence",
+      "lines": [
+        "Technology"
+      ]
+    },
+    {
+      "label": "Kicks Collective",
+      "lines": [
+        "Apparel & Accessories",
+        "Art",
+        "Not-for-Profit",
+        "Products",
+        "Services"
+      ]
+    },
+    {
+      "label": "CodeSlam",
+      "lines": [
+        "Education",
+        "Technology",
+        "Art"
+      ]
+    },
+    {
+      "label": "Startup.win",
+      "lines": [
+        "Technology"
+      ]
+    },
+    {
+      "label": "Choose Tallahassee",
+      "lines": [
+        "Services"
+      ]
+    },
+    {
+      "label": "Knowli, Corp | Knowli Data Science | Knowli Consulting, LLC",
+      "lines": [
+        "Technology",
+        "Services",
+        "Consulting"
+      ]
+    },
+    {
+      "label": "i2x Solutions",
+      "lines": [
+        "Technology",
+        "Services",
+        "Products"
+      ]
+    },
+    {
+      "label": "Pinnacle Performance Consulting",
+      "lines": [
+        "Consulting",
+        "Design",
+        "Employment & Human Resources",
+        "Services"
+      ]
+    },
+    {
+      "label": "Event Owl",
+      "lines": [
+        "Marketing",
+        "Technology"
+      ]
+    },
+    {
+      "label": "JustFOIA",
+      "lines": [
+        "Technology",
+        "Public Administration",
+        "Robotics & Automation",
+        "Services",
+        "Products"
+      ]
+    },
+    {
+      "label": "Domi Station",
+      "lines": [
+        "Services"
+      ]
+    },
+    {
+      "label": "Smart Florida",
+      "lines": [
+        "Education"
+      ]
+    }
+  ]
+}
