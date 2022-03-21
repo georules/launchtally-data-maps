@@ -7,7 +7,7 @@
 + `node cleanData.js > cleaned.json` will prepare the data for `makeMapData.js`
 + `node makeMapData.js > launchtally.json` prepares data in a format for the memory underground map https://memoryunderground.com/
 
-![Launch Tally](transitmap.png)
+![Launch Tally](transitmap-whitebackground.png)
 
 ## Other ideas
 + Make a map that looks like a star map, on brand with launch
