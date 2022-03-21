@@ -10,4 +10,5 @@
 ![Launch Tally](transitmap-whitebackground.png)
 
 ## Other ideas
++ https://startupsac.com/sse/
 + Make a map that looks like a star map, on brand with launch
