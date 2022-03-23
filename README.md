@@ -6,6 +6,8 @@ Ebe Randeree created a geographical map of [tally tech businesses on maptive](ht
 
 [Maptive API route](https://fortress.maptive.com/ver4/data.php?operation=get_map_markers&data_id=1056209&map_id=1055574&bounds=30.341448,-84.409308,30.637001,-84.082122&zoom=12&shared_map=1&lat_col=6&lng_col=7&name_col=0&pie_chart=0&aggregation=-1&cluster=true&group=all&group_col=-1&search_bounds=&q=&ss_type=3&highlight_search=true&show_all_when_zoomed=1&snapshot_id=483416) returns JSON with lat lon markers associated to names.
 
+![Maptive Network Call](maptive.png)
+
 `bash getMaptiveData.sh > maptive.json` will download the JSON from this endpoint and save it to maptive.json
 
 ## Launch Tally data
