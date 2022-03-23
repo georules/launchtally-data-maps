@@ -12,7 +12,7 @@ Ebe Randeree created a geographical map of [tally tech businesses on maptive](ht
 
 The LaunchPad for Launch Tally is hosted on [Ramenlife.co](https://tlh.ramenlife.co/)
 
-Ramen life data model includes things like name, website, business types, industries, and team profiles.ß
+Ramen life data model includes things like name, website, business types, industries, and team profiles.
 
 + `getData.sh` will pull organizations from https://tlh.ramenlife.co/ and save to `companies.json` and `startups.json`  The two endpoints for this data can be seen in this script.  Be nice!  These routes are unauthenticated & these endpoints may not be intended for regular use.  Download the JSON and prototype maps from your local cache of data.
 + `cleanData.js` will combine `companies.json` and `startups.json` into one data set and merge/remove some attributes to clean the data some
