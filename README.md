@@ -28,3 +28,7 @@ Ramen life data model includes things like name, website, business types, indust
 ## Other ideas
 + https://startupsac.com/sse/
 + Make a map that looks like a star map, on brand with launch
+
+## Contributing
+
+Please open issues, fork, pull requests, new repos etc.  This is repo was made in the spirit of sharing.  Please share and discuss in anyway you like!
